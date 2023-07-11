@@ -1,3 +1,5 @@
+![JavaScript developer and technical writer](https://github.com/oluwatobiss/oluwatobiss/assets/60105594/b7553a4a-7e4c-4277-bc36-059974d9e7dd)
+
 ### Hi there 👋
 
 <!--
