@@ -24,6 +24,8 @@
   
 ---
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#7829](https://github.com/EddieHubCommunity/support/issues/7829) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 🚀 Published release [Release 0.9.4](https://github.com/Release 0.9.4) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
