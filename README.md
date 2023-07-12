@@ -22,6 +22,9 @@
   <img height=200 src="https://github-readme-stats-oluwatobiss.vercel.app/api/top-langs/?username=oluwatobiss&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
   
+---
+
+<!--START_SECTION:activity-->
 
 <!--
 **oluwatobiss/oluwatobiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
