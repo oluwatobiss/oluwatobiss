@@ -29,8 +29,8 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-2. 🗣 Commented on [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+1. 🗣 Commented on [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2#issuecomment-1633099170) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+2. 🗣 Commented on [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1#issuecomment-1633077919) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
 3. 💪 Opened PR [#2946](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2946) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 4. 💪 Opened PR [#1867](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1867) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 5. ❗ Opened issue [#1864](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1864) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
