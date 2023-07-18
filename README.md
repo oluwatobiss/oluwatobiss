@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.0.8](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.8) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-2. 🔒 Closed issue [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-3. 🔒 Closed issue [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-4. 🗣 Commented on [#2946](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2946#issuecomment-1635177713) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2#issuecomment-1633099170) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+1. 🗣 Commented on [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1#issuecomment-1640050936) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+2. 🚀 Published release [Release 1.0.8](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.8) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+3. 🔒 Closed issue [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+4. 🔒 Closed issue [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+5. 🗣 Commented on [#2946](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2946#issuecomment-1635177713) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
