@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2#issuecomment-1644630819) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-2. 🚀 Published release [Release 1.0.9](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.9) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-3. 🗣 Commented on [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1#issuecomment-1640050936) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-4. 🚀 Published release [Release 1.0.8](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.8) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-5. 🔒 Closed issue [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+1. 🚀 Published release [Release 1.0.10](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.10) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+2. 🗣 Commented on [#2](https://github.com/codesweetly/react-youtube-playlist/issues/2#issuecomment-1644630819) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+3. 🚀 Published release [Release 1.0.9](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.9) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+4. 🗣 Commented on [#1](https://github.com/codesweetly/react-youtube-playlist/issues/1#issuecomment-1640050936) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+5. 🚀 Published release [Release 1.0.8](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.8) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
 <!--END_SECTION:activity-->
 
 <!--
