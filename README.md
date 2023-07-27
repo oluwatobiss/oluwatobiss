@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9177](https://github.com/facebook/docusaurus/pull/9177) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. 💪 Opened PR [#1](https://github.com/oluwatobiss/docusaurus/pull/1) in [oluwatobiss/docusaurus](https://github.com/oluwatobiss/docusaurus)
-3. 💪 Opened PR [#70379](https://github.com/firstcontributions/first-contributions/pull/70379) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 🚀 Published release [Release 1.0.11](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.11) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-5. 🚀 Published release [Release 1.0.10](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.10) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+1. 💪 Opened PR [#9180](https://github.com/facebook/docusaurus/pull/9180) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. 💪 Opened PR [#9177](https://github.com/facebook/docusaurus/pull/9177) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+3. 💪 Opened PR [#1](https://github.com/oluwatobiss/docusaurus/pull/1) in [oluwatobiss/docusaurus](https://github.com/oluwatobiss/docusaurus)
+4. 💪 Opened PR [#70379](https://github.com/firstcontributions/first-contributions/pull/70379) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 🚀 Published release [Release 1.0.11](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.11) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
 <!--END_SECTION:activity-->
 
 <!--
