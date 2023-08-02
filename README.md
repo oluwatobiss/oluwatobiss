@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26014](https://github.com/TheOdinProject/curriculum/issues/26014#issuecomment-1662188297) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-2. 💪 Opened PR [#9180](https://github.com/facebook/docusaurus/pull/9180) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-3. 💪 Opened PR [#9177](https://github.com/facebook/docusaurus/pull/9177) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-4. 💪 Opened PR [#1](https://github.com/oluwatobiss/docusaurus/pull/1) in [oluwatobiss/docusaurus](https://github.com/oluwatobiss/docusaurus)
-5. 💪 Opened PR [#70379](https://github.com/firstcontributions/first-contributions/pull/70379) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❗ Opened issue [#2128](https://github.com/shuding/nextra/issues/2128) in [shuding/nextra](https://github.com/shuding/nextra)
+2. 🗣 Commented on [#26014](https://github.com/TheOdinProject/curriculum/issues/26014#issuecomment-1662188297) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+3. 💪 Opened PR [#9180](https://github.com/facebook/docusaurus/pull/9180) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. 💪 Opened PR [#9177](https://github.com/facebook/docusaurus/pull/9177) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+5. 💪 Opened PR [#1](https://github.com/oluwatobiss/docusaurus/pull/1) in [oluwatobiss/docusaurus](https://github.com/oluwatobiss/docusaurus)
 <!--END_SECTION:activity-->
 
 <!--
