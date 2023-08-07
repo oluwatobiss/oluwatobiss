@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667032283) in [shuding/nextra](https://github.com/shuding/nextra)
-2. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1666351001) in [shuding/nextra](https://github.com/shuding/nextra)
-3. 🗣 Commented on [#2128](https://github.com/shuding/nextra/issues/2128#issuecomment-1666340181) in [shuding/nextra](https://github.com/shuding/nextra)
-4. 🗣 Commented on [#26014](https://github.com/TheOdinProject/curriculum/issues/26014#issuecomment-1666211570) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
-5. 💪 Opened PR [#26047](https://github.com/TheOdinProject/curriculum/pull/26047) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
+1. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667879322) in [shuding/nextra](https://github.com/shuding/nextra)
+2. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667032283) in [shuding/nextra](https://github.com/shuding/nextra)
+3. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1666351001) in [shuding/nextra](https://github.com/shuding/nextra)
+4. 🗣 Commented on [#2128](https://github.com/shuding/nextra/issues/2128#issuecomment-1666340181) in [shuding/nextra](https://github.com/shuding/nextra)
+5. 🗣 Commented on [#26014](https://github.com/TheOdinProject/curriculum/issues/26014#issuecomment-1666211570) in [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)
 <!--END_SECTION:activity-->
 
 <!--
