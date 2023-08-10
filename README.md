@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2137](https://github.com/shuding/nextra/pull/2137) in [shuding/nextra](https://github.com/shuding/nextra)
-2. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667990579) in [shuding/nextra](https://github.com/shuding/nextra)
-3. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667879322) in [shuding/nextra](https://github.com/shuding/nextra)
-4. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667032283) in [shuding/nextra](https://github.com/shuding/nextra)
-5. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1666351001) in [shuding/nextra](https://github.com/shuding/nextra)
+1. ❗ Opened issue [#30](https://github.com/FrancescoXX/contentbox/issues/30) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
+2. 💪 Opened PR [#2137](https://github.com/shuding/nextra/pull/2137) in [shuding/nextra](https://github.com/shuding/nextra)
+3. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667990579) in [shuding/nextra](https://github.com/shuding/nextra)
+4. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667879322) in [shuding/nextra](https://github.com/shuding/nextra)
+5. 🗣 Commented on [#2130](https://github.com/shuding/nextra/issues/2130#issuecomment-1667032283) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
 
 <!--
