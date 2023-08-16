@@ -29,11 +29,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1.0.15](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.15) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-2. 🚀 Published release [Release 1.0.14](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.14) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-3. 🗣 Commented on [#2090](https://github.com/shuding/nextra/issues/2090#issuecomment-1676178629) in [shuding/nextra](https://github.com/shuding/nextra)
-4. 🗣 Commented on [#2137](https://github.com/shuding/nextra/pull/2137#issuecomment-1674950663) in [shuding/nextra](https://github.com/shuding/nextra)
-5. ❗ Opened issue [#30](https://github.com/FrancescoXX/contentbox/issues/30) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
+1. 🚀 Published release [Release 1.0.16](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.16) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+2. 🚀 Published release [Release 1.0.15](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.15) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+3. 🚀 Published release [Release 1.0.14](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.14) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+4. 🗣 Commented on [#2090](https://github.com/shuding/nextra/issues/2090#issuecomment-1676178629) in [shuding/nextra](https://github.com/shuding/nextra)
+5. 🗣 Commented on [#2137](https://github.com/shuding/nextra/pull/2137#issuecomment-1674950663) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
 
 <!--
