@@ -18,8 +18,8 @@
 ---
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats-oluwatobiss.vercel.app/api?username=oluwatobiss&show_icons=true&theme=vision-friendly-dark" alt="Oluwatobi's GitHub stats"/>
-  <img height=200 src="https://github-readme-stats-oluwatobiss.vercel.app/api/top-langs/?username=oluwatobiss&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=oluwatobiss&show_icons=true&theme=vision-friendly-dark" alt="Oluwatobi's GitHub stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobiss&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
   
 ---
