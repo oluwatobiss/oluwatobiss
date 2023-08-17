@@ -8,6 +8,7 @@
   ![React](https://img.shields.io/badge/react-0D6C8C?style=for-the-badge&logo=react&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-F2C12A?style=for-the-badge&logo=firebase&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Emotion](https://img.shields.io/badge/emotion-ff69b4?style=for-the-badge&logo=emotion&logoColor=white)
   
 </div>
 
@@ -15,12 +16,16 @@
 - 👯 I’m looking to collaborate with you.
 - 🌱 Currently learning the art of collaborating on cool Open Source projects.
 
+<!--
+
 ---
 
 <div align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=oluwatobiss&show_icons=true&theme=vision-friendly-dark" alt="Oluwatobi's GitHub stats"/>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobiss&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
+
+-->
   
 ---
 
