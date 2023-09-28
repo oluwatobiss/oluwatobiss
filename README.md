@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/chingu-voyages/Handbook/pull/31) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
-2. 💪 Opened PR [#30](https://github.com/chingu-voyages/Handbook/pull/30) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
-3. 💪 Opened PR [#29](https://github.com/chingu-voyages/Handbook/pull/29) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
-4. 💪 Opened PR [#47](https://github.com/FrancescoXX/contentbox/pull/47) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
-5. 🚀 Published release [Release 1.0.16](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v1.0.16) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+1. 💪 Opened PR [#32](https://github.com/chingu-voyages/Handbook/pull/32) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
+2. 💪 Opened PR [#31](https://github.com/chingu-voyages/Handbook/pull/31) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
+3. 💪 Opened PR [#30](https://github.com/chingu-voyages/Handbook/pull/30) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
+4. 💪 Opened PR [#29](https://github.com/chingu-voyages/Handbook/pull/29) in [chingu-voyages/Handbook](https://github.com/chingu-voyages/Handbook)
+5. 💪 Opened PR [#47](https://github.com/FrancescoXX/contentbox/pull/47) in [FrancescoXX/contentbox](https://github.com/FrancescoXX/contentbox)
 <!--END_SECTION:activity-->
 
 <!--
