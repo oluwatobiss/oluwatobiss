@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/chingu-voyages/v46-tier2-team-17/pull/36) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-2. 🗣 Commented on [#36](https://github.com/chingu-voyages/v46-tier2-team-17/pull/36#issuecomment-1774236101) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-3. 💪 Opened PR [#36](https://github.com/chingu-voyages/v46-tier2-team-17/pull/36) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-4. 🎉 Merged PR [#34](https://github.com/chingu-voyages/v46-tier2-team-17/pull/34) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-5. 💪 Opened PR [#31](https://github.com/chingu-voyages/v46-tier2-team-17/pull/31) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+1. 💪 Opened PR [#39](https://github.com/chingu-voyages/v46-tier2-team-17/pull/39) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+2. 🎉 Merged PR [#36](https://github.com/chingu-voyages/v46-tier2-team-17/pull/36) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+3. 🗣 Commented on [#36](https://github.com/chingu-voyages/v46-tier2-team-17/pull/36#issuecomment-1774236101) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+4. 💪 Opened PR [#36](https://github.com/chingu-voyages/v46-tier2-team-17/pull/36) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+5. 🎉 Merged PR [#34](https://github.com/chingu-voyages/v46-tier2-team-17/pull/34) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
 <!--END_SECTION:activity-->
 
 <!--
