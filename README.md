@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/chingu-voyages/v46-tier2-team-17/pull/58) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-2. 🎉 Merged PR [#57](https://github.com/chingu-voyages/v46-tier2-team-17/pull/57) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-3. 💪 Opened PR [#56](https://github.com/chingu-voyages/v46-tier2-team-17/pull/56) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-4. 🎉 Merged PR [#54](https://github.com/chingu-voyages/v46-tier2-team-17/pull/54) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-5. 💪 Opened PR [#52](https://github.com/chingu-voyages/v46-tier2-team-17/pull/52) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+1. 💪 Opened PR [#59](https://github.com/chingu-voyages/v46-tier2-team-17/pull/59) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+2. 🎉 Merged PR [#58](https://github.com/chingu-voyages/v46-tier2-team-17/pull/58) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+3. 🎉 Merged PR [#57](https://github.com/chingu-voyages/v46-tier2-team-17/pull/57) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+4. 💪 Opened PR [#56](https://github.com/chingu-voyages/v46-tier2-team-17/pull/56) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+5. 🎉 Merged PR [#54](https://github.com/chingu-voyages/v46-tier2-team-17/pull/54) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
 <!--END_SECTION:activity-->
 
 <!--
