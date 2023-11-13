@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#76](https://github.com/chingu-voyages/v46-tier2-team-17/pull/76) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-2. 💪 Opened PR [#76](https://github.com/chingu-voyages/v46-tier2-team-17/pull/76) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-3. 🎉 Merged PR [#75](https://github.com/chingu-voyages/v46-tier2-team-17/pull/75) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-4. 💪 Opened PR [#75](https://github.com/chingu-voyages/v46-tier2-team-17/pull/75) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
-5. ❌ Closed PR [#73](https://github.com/chingu-voyages/v46-tier2-team-17/pull/73) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+1. 💪 Opened PR [#9545](https://github.com/facebook/docusaurus/pull/9545) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. ❌ Closed PR [#76](https://github.com/chingu-voyages/v46-tier2-team-17/pull/76) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+3. 💪 Opened PR [#76](https://github.com/chingu-voyages/v46-tier2-team-17/pull/76) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+4. 🎉 Merged PR [#75](https://github.com/chingu-voyages/v46-tier2-team-17/pull/75) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
+5. 💪 Opened PR [#75](https://github.com/chingu-voyages/v46-tier2-team-17/pull/75) in [chingu-voyages/v46-tier2-team-17](https://github.com/chingu-voyages/v46-tier2-team-17)
 <!--END_SECTION:activity-->
 
 <!--
