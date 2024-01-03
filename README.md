@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 2.0.1](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.0.1) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-2. 🎉 Merged PR [#3](https://github.com/codesweetly/react-image-grid-gallery/pull/3) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-3. 💪 Opened PR [#3](https://github.com/codesweetly/react-image-grid-gallery/pull/3) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-4. 🚀 Published release [Release 2.0.0](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.0.0) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-5. 🎉 Merged PR [#2](https://github.com/codesweetly/react-image-grid-gallery/pull/2) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+1. 🎉 Merged PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+2. 💪 Opened PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+3. 🚀 Published release [Release 2.0.1](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.0.1) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+4. 🎉 Merged PR [#3](https://github.com/codesweetly/react-image-grid-gallery/pull/3) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+5. 💪 Opened PR [#3](https://github.com/codesweetly/react-image-grid-gallery/pull/3) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
 <!--END_SECTION:activity-->
 
 <!--
