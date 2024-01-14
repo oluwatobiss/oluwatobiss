@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 2.0.0](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v2.0.0) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-2. 🎉 Merged PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-3. 💪 Opened PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-4. 🚀 Published release [Release 2.0.1](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.0.1) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-5. 🎉 Merged PR [#3](https://github.com/codesweetly/react-image-grid-gallery/pull/3) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+1. 🚀 Published release [Release 3.0.3](https://github.com/codesweetly/thank-you-tweet-button-003/releases/tag/v3.0.3) in [codesweetly/thank-you-tweet-button-003](https://github.com/codesweetly/thank-you-tweet-button-003)
+2. 🚀 Published release [Release 2.0.0](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v2.0.0) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+3. 🎉 Merged PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+4. 💪 Opened PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+5. 🚀 Published release [Release 2.0.1](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.0.1) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
 <!--END_SECTION:activity-->
 
 <!--
