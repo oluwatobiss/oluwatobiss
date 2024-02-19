@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2137](https://github.com/shuding/nextra/pull/2137#issuecomment-1895618227) in [shuding/nextra](https://github.com/shuding/nextra)
-2. 🚀 Published release [Release 3.0.3](https://github.com/codesweetly/thank-you-tweet-button-003/releases/tag/v3.0.3) in [codesweetly/thank-you-tweet-button-003](https://github.com/codesweetly/thank-you-tweet-button-003)
-3. 🚀 Published release [Release 2.0.0](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v2.0.0) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-4. 🎉 Merged PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
-5. 💪 Opened PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+1. 🗣 Commented on [#4](https://github.com/codesweetly/react-image-grid-gallery/issues/4#issuecomment-1952744621) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+2. 🗣 Commented on [#2137](https://github.com/shuding/nextra/pull/2137#issuecomment-1895618227) in [shuding/nextra](https://github.com/shuding/nextra)
+3. 🚀 Published release [Release 3.0.3](https://github.com/codesweetly/thank-you-tweet-button-003/releases/tag/v3.0.3) in [codesweetly/thank-you-tweet-button-003](https://github.com/codesweetly/thank-you-tweet-button-003)
+4. 🚀 Published release [Release 2.0.0](https://github.com/codesweetly/react-youtube-playlist/releases/tag/v2.0.0) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
+5. 🎉 Merged PR [#3](https://github.com/codesweetly/react-youtube-playlist/pull/3) in [codesweetly/react-youtube-playlist](https://github.com/codesweetly/react-youtube-playlist)
 <!--END_SECTION:activity-->
 
 <!--
