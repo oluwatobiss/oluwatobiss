@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31745](https://github.com/servo/servo/pull/31745) in [servo/servo](https://github.com/servo/servo)
-2. 🗣 Commented on [#5](https://github.com/codesweetly/react-image-grid-gallery/issues/5#issuecomment-1996210698) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-3. 💪 Opened PR [#31643](https://github.com/servo/servo/pull/31643) in [servo/servo](https://github.com/servo/servo)
-4. 💪 Opened PR [#31625](https://github.com/servo/servo/pull/31625) in [servo/servo](https://github.com/servo/servo)
-5. 🗣 Commented on [#31575](https://github.com/servo/servo/issues/31575#issuecomment-1991711658) in [servo/servo](https://github.com/servo/servo)
+1. 💪 Opened PR [#31755](https://github.com/servo/servo/pull/31755) in [servo/servo](https://github.com/servo/servo)
+2. 💪 Opened PR [#31745](https://github.com/servo/servo/pull/31745) in [servo/servo](https://github.com/servo/servo)
+3. 🗣 Commented on [#5](https://github.com/codesweetly/react-image-grid-gallery/issues/5#issuecomment-1996210698) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+4. 💪 Opened PR [#31643](https://github.com/servo/servo/pull/31643) in [servo/servo](https://github.com/servo/servo)
+5. 💪 Opened PR [#31625](https://github.com/servo/servo/pull/31625) in [servo/servo](https://github.com/servo/servo)
 <!--END_SECTION:activity-->
 
 <!--
