@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32051](https://github.com/servo/servo/pull/32051) in [servo/servo](https://github.com/servo/servo)
-2. 💪 Opened PR [#32049](https://github.com/servo/servo/pull/32049) in [servo/servo](https://github.com/servo/servo)
-3. 💪 Opened PR [#31986](https://github.com/servo/servo/pull/31986) in [servo/servo](https://github.com/servo/servo)
-4. 💪 Opened PR [#31984](https://github.com/servo/servo/pull/31984) in [servo/servo](https://github.com/servo/servo)
-5. 💪 Opened PR [#31983](https://github.com/servo/servo/pull/31983) in [servo/servo](https://github.com/servo/servo)
+1. 💪 Opened PR [#32052](https://github.com/servo/servo/pull/32052) in [servo/servo](https://github.com/servo/servo)
+2. 💪 Opened PR [#32051](https://github.com/servo/servo/pull/32051) in [servo/servo](https://github.com/servo/servo)
+3. 💪 Opened PR [#32049](https://github.com/servo/servo/pull/32049) in [servo/servo](https://github.com/servo/servo)
+4. 💪 Opened PR [#31986](https://github.com/servo/servo/pull/31986) in [servo/servo](https://github.com/servo/servo)
+5. 💪 Opened PR [#31984](https://github.com/servo/servo/pull/31984) in [servo/servo](https://github.com/servo/servo)
 <!--END_SECTION:activity-->
 
 <!--
