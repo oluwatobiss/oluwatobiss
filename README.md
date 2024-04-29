@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32113](https://github.com/servo/servo/pull/32113) in [servo/servo](https://github.com/servo/servo)
-2. 💪 Opened PR [#32110](https://github.com/servo/servo/pull/32110) in [servo/servo](https://github.com/servo/servo)
-3. 💪 Opened PR [#32109](https://github.com/servo/servo/pull/32109) in [servo/servo](https://github.com/servo/servo)
-4. 💪 Opened PR [#32108](https://github.com/servo/servo/pull/32108) in [servo/servo](https://github.com/servo/servo)
-5. 🎉 Merged PR [#6](https://github.com/codesweetly/react-image-grid-gallery/pull/6) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+1. 🎉 Merged PR [#7](https://github.com/codesweetly/react-image-grid-gallery/pull/7) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+2. 💪 Opened PR [#7](https://github.com/codesweetly/react-image-grid-gallery/pull/7) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+3. 💪 Opened PR [#32113](https://github.com/servo/servo/pull/32113) in [servo/servo](https://github.com/servo/servo)
+4. 💪 Opened PR [#32110](https://github.com/servo/servo/pull/32110) in [servo/servo](https://github.com/servo/servo)
+5. 💪 Opened PR [#32109](https://github.com/servo/servo/pull/32109) in [servo/servo](https://github.com/servo/servo)
 <!--END_SECTION:activity-->
 
 <!--
