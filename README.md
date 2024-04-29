@@ -34,11 +34,11 @@
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 2.1.2](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.1.2) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-2. 🎉 Merged PR [#9](https://github.com/codesweetly/react-image-grid-gallery/pull/9) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-3. 💪 Opened PR [#9](https://github.com/codesweetly/react-image-grid-gallery/pull/9) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-4. 🚀 Published release [Release 2.1.1](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.1.1) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
-5. 🎉 Merged PR [#8](https://github.com/codesweetly/react-image-grid-gallery/pull/8) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+1. 🗣 Commented on [#5](https://github.com/codesweetly/react-image-grid-gallery/issues/5#issuecomment-2083597741) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+2. 🔒 Closed issue [#5](https://github.com/codesweetly/react-image-grid-gallery/issues/5) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+3. 🚀 Published release [Release 2.1.2](https://github.com/codesweetly/react-image-grid-gallery/releases/tag/v2.1.2) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+4. 🎉 Merged PR [#9](https://github.com/codesweetly/react-image-grid-gallery/pull/9) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
+5. 💪 Opened PR [#9](https://github.com/codesweetly/react-image-grid-gallery/pull/9) in [codesweetly/react-image-grid-gallery](https://github.com/codesweetly/react-image-grid-gallery)
 <!--END_SECTION:activity-->
 
 <!--
