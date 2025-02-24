@@ -12,11 +12,11 @@
   
 </div>
 
+<!--
+
 - 📫 You can reach me on [Twitter](https://twitter.com/oluwatobiss) and [LinkedIn](https://www.linkedin.com/in/oluwatobiss/).
 - 👯 I’m looking to collaborate with you.
 - 🌱 Currently learning server-side development.
-
-<!--
 
 ---
 
