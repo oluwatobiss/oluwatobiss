@@ -1,4 +1,4 @@
-![JavaScript developer and technical writer](https://github.com/oluwatobiss/oluwatobiss/assets/60105594/b7553a4a-7e4c-4277-bc36-059974d9e7dd)
+![Oluwatobi is a full-stack TypeScript and Node developer who is receptive to new ideas and experiences.](https://github.com/user-attachments/assets/f62f346f-1adb-4239-98a1-56a0cf192e5d)
 
 <!-- 
 <div align="center">
