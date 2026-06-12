@@ -1,6 +1,11 @@
-![Oluwatobi is a full-stack TypeScript and Node developer who is receptive to new ideas and experiences.](https://github.com/user-attachments/assets/f62f346f-1adb-4239-98a1-56a0cf192e5d)
+![Oluwatobi is a full-stack JavaScript and TypeScript engineer exploring new possibilities with privacy-first technologies and zero-knowledge systems.](https://github.com/user-attachments/assets/271dd170-5d44-4249-a81c-cb3f59dcc52f)
 
 <!-- 
+
+![Oluwatobi is a full-stack TypeScript and Node developer who is receptive to new ideas and experiences.](https://github.com/user-attachments/assets/f62f346f-1adb-4239-98a1-56a0cf192e5d)
+
+<img width="2560" height="853" alt="codesweetly-cover-image-3-1" src="https://github.com/user-attachments/assets/271dd170-5d44-4249-a81c-cb3f59dcc52f" />
+
 <div align="center">
   
   I am the guy who has fun coding sweetly and helps others do the same. 
