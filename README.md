@@ -33,15 +33,13 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobiss&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
 
--->
-  
 ---
 
 ### :zap: Recent Activity
 
 [![Oluwatobi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oluwatobiss&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
+
 **oluwatobiss/oluwatobiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
